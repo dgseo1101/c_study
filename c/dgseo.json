@@ -1,0 +1,8 @@
+{
+    "Title": "Inception",
+    "Genre": "Sci-Fi",
+    "Director": "Christopher Nolan",
+    "asd" : 123,
+    "test" : 123.123,
+    "list" : ["asd", "qwe"]
+}
